@@ -193,10 +193,6 @@ code {
     background: var(--brand-experiment-560) !important;
 }
 
-.container-20TyK0 .message-3C6JQ1 {
-    font-weight: 400;
-}
-
 /**
     Switches.
 **/
@@ -292,11 +288,6 @@ code {
 
 .content-1jQy2l {
     box-shadow: var(--02dpShadow);
-}
-
-.groupStart-3Mlgv1.cozyMessage-1DWF9U .contents-2MsGLg,
-.cozyMessage-1DWF9U:not(.groupStart-3Mlgv1) .contents-2MsGLg > .markup-eYLPri:not(:empty, .searchResultsWrap-5RVOkx *) {
-    box-shadow: var(--04dpShadow);
 }
 
 .expandedFolderBackground-1kSAf6,
@@ -420,19 +411,6 @@ button.lookFilled-yCfaCM {
     padding: 4px 6px;
 }
 
-.groupStart-3Mlgv1.cozyMessage-1DWF9U .contents-2MsGLg,
-.cozyMessage-1DWF9U:not(.groupStart-3Mlgv1) .contents-2MsGLg > .markup-eYLPri:not(:empty, .searchResultsWrap-5RVOkx *) {
-    background-color: var(--04dp);
-    display: inline-block;
-    max-width: 650px;
-    margin: 0;
-    padding: 7px 12px;
-    padding-left: 12px;
-    border-radius: 0 4px 4px 4px;
-    position: relative;
-    overflow: visible;
-}
-
 .contents-2MsGLg img.avatar-2e8lTP.clickable-31pE3P {
     left: -55px;
 }
@@ -455,15 +433,6 @@ button.lookFilled-yCfaCM {
 
 .cozy-VmLDNB[data-is-author-self="true"] {
     --text-link: #3693ff;
-}
-
-.embedVideo-2ixt5A .imageWrapper-oMkQl4,
-.messageAttachment-CZp8Iv .imageWrapper-oMkQl4 {
-    background-color: var(--04dp);
-    max-width: 650px;
-    margin: 0;
-    padding: 7px 12px;
-    border-radius: 0 4px 4px 4px;
 }
 
 [data-is-author-self="true"] .messageAttachment-CZp8Iv .imageWrapper-oMkQl4,
